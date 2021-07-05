@@ -1,0 +1,142 @@
+2021-07-04 18:29:29 info: =================================
+2021-07-04 18:29:29 info: ======= ENV: development =======
+2021-07-04 18:29:29 info: 🚀 App listening on the port 3000
+2021-07-04 18:29:29 info: =================================
+2021-07-04 18:32:18 info: =================================
+2021-07-04 18:32:18 info: ======= ENV: development =======
+2021-07-04 18:32:18 info: 🚀 App listening on the port 3000
+2021-07-04 18:32:18 info: =================================
+2021-07-04 18:33:07 info: =================================
+2021-07-04 18:33:07 info: ======= ENV: development =======
+2021-07-04 18:33:07 info: 🚀 App listening on the port 3000
+2021-07-04 18:33:07 info: =================================
+2021-07-04 18:33:21 info: [0mGET /uphold-bot [36m304[0m 414.283 ms - -[0m
+2021-07-04 18:33:21 error: [GET] /uphold-bot >> StatusCode:: 500, Message:: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'TLSSocket'
+    --- property '_httpMessage' closes the circle
+2021-07-04 18:33:47 info: =================================
+2021-07-04 18:33:47 info: ======= ENV: development =======
+2021-07-04 18:33:47 info: 🚀 App listening on the port 3000
+2021-07-04 18:33:47 info: =================================
+2021-07-04 18:33:51 info: =================================
+2021-07-04 18:33:51 info: ======= ENV: development =======
+2021-07-04 18:33:51 info: 🚀 App listening on the port 3000
+2021-07-04 18:33:51 info: =================================
+2021-07-04 18:33:59 error: [GET] /uphold-bot >> StatusCode:: 500, Message:: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'TLSSocket'
+    --- property '_httpMessage' closes the circle
+2021-07-04 18:33:59 info: [0mGET /uphold-bot [31m500[0m 371.147 ms - 231[0m
+2021-07-04 18:34:38 info: =================================
+2021-07-04 18:34:38 info: ======= ENV: development =======
+2021-07-04 18:34:38 info: 🚀 App listening on the port 3000
+2021-07-04 18:34:38 info: =================================
+2021-07-04 18:34:42 error: [GET] /uphold-bot >> StatusCode:: 500, Message:: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'TLSSocket'
+    --- property '_httpMessage' closes the circle
+2021-07-04 18:34:42 info: [0mGET /uphold-bot [31m500[0m 331.791 ms - 231[0m
+2021-07-04 18:36:04 info: =================================
+2021-07-04 18:36:04 info: ======= ENV: development =======
+2021-07-04 18:36:04 info: 🚀 App listening on the port 3000
+2021-07-04 18:36:04 info: =================================
+2021-07-04 18:36:13 error: [GET] /uphold-bot >> StatusCode:: 500, Message:: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'TLSSocket'
+    --- property '_httpMessage' closes the circle
+2021-07-04 18:36:13 info: [0mGET /uphold-bot [31m500[0m 357.039 ms - 231[0m
+2021-07-04 18:37:06 info: =================================
+2021-07-04 18:37:06 info: ======= ENV: development =======
+2021-07-04 18:37:06 info: 🚀 App listening on the port 3000
+2021-07-04 18:37:06 info: =================================
+2021-07-04 18:37:18 info: =================================
+2021-07-04 18:37:18 info: ======= ENV: development =======
+2021-07-04 18:37:18 info: 🚀 App listening on the port 3000
+2021-07-04 18:37:18 info: =================================
+2021-07-04 18:37:38 info: =================================
+2021-07-04 18:37:38 info: ======= ENV: development =======
+2021-07-04 18:37:38 info: 🚀 App listening on the port 3000
+2021-07-04 18:37:38 info: =================================
+2021-07-04 18:37:46 error: [GET] /uphold-bot >> StatusCode:: 500, Message:: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'TLSSocket'
+    --- property '_httpMessage' closes the circle
+2021-07-04 18:37:46 info: [0mGET /uphold-bot [31m500[0m 347.767 ms - 231[0m
+2021-07-04 18:43:03 info: =================================
+2021-07-04 18:43:03 info: ======= ENV: development =======
+2021-07-04 18:43:03 info: 🚀 App listening on the port 3000
+2021-07-04 18:43:03 info: =================================
+2021-07-04 18:43:17 error: [GET] /uphold-bot >> StatusCode:: 500, Message:: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'TLSSocket'
+    --- property '_httpMessage' closes the circle
+2021-07-04 18:43:17 info: [0mGET /uphold-bot [31m500[0m 1603.679 ms - 231[0m
+2021-07-04 21:25:43 info: =================================
+2021-07-04 21:25:43 info: ======= ENV: development =======
+2021-07-04 21:25:43 info: 🚀 App listening on the port 3000
+2021-07-04 21:25:43 info: =================================
+2021-07-04 21:25:49 info: [0mGET /uphold-bot [32m200[0m 5.475 ms - 2[0m
+2021-07-04 21:25:49 error: [GET] /uphold-bot >> StatusCode:: 500, Message:: Cannot set headers after they are sent to the client
+2021-07-04 21:27:17 info: =================================
+2021-07-04 21:27:17 info: ======= ENV: development =======
+2021-07-04 21:27:17 info: 🚀 App listening on the port 3000
+2021-07-04 21:27:17 info: =================================
+2021-07-04 21:27:24 info: [0mGET /uphold-bot [36m304[0m 7.057 ms - -[0m
+2021-07-04 21:27:24 error: [GET] /uphold-bot >> StatusCode:: 500, Message:: Cannot set headers after they are sent to the client
+2021-07-04 21:28:18 info: =================================
+2021-07-04 21:28:18 info: ======= ENV: development =======
+2021-07-04 21:28:18 info: 🚀 App listening on the port 3000
+2021-07-04 21:28:18 info: =================================
+2021-07-04 21:28:21 error: [GET] /uphold-bot >> StatusCode:: 500, Message:: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'TLSSocket'
+    --- property '_httpMessage' closes the circle
+2021-07-04 21:28:21 info: [0mGET /uphold-bot [31m500[0m 387.894 ms - 231[0m
+2021-07-04 21:29:45 info: =================================
+2021-07-04 21:29:45 info: ======= ENV: development =======
+2021-07-04 21:29:45 info: 🚀 App listening on the port 3000
+2021-07-04 21:29:45 info: =================================
+2021-07-04 21:29:47 info: [0mGET /uphold-bot [32m200[0m 343.410 ms - 2[0m
+2021-07-04 21:29:47 error: [GET] /uphold-bot >> StatusCode:: 500, Message:: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'TLSSocket'
+    --- property '_httpMessage' closes the circle
+2021-07-04 21:32:26 info: =================================
+2021-07-04 21:32:26 info: ======= ENV: development =======
+2021-07-04 21:32:26 info: 🚀 App listening on the port 3000
+2021-07-04 21:32:26 info: =================================
+2021-07-04 21:32:30 info: [0mGET /uphold-bot [36m304[0m 326.559 ms - -[0m
+2021-07-04 21:32:30 error: [GET] /uphold-bot >> StatusCode:: 500, Message:: Cannot set headers after they are sent to the client
+2021-07-04 21:35:11 info: =================================
+2021-07-04 21:35:11 info: ======= ENV: development =======
+2021-07-04 21:35:11 info: 🚀 App listening on the port 3000
+2021-07-04 21:35:11 info: =================================
+2021-07-04 21:35:33 info: [0mGET /uphold-bot [32m200[0m 386.365 ms - 97[0m
+2021-07-04 21:35:33 error: [GET] /uphold-bot >> StatusCode:: 500, Message:: Cannot set headers after they are sent to the client
+2021-07-04 21:48:28 info: =================================
+2021-07-04 21:48:28 info: ======= ENV: development =======
+2021-07-04 21:48:28 info: 🚀 App listening on the port 3000
+2021-07-04 21:48:28 info: =================================
+2021-07-04 21:48:33 info: [0mGET /uphold-bot/USD-BTC/0.10 [32m200[0m 395.791 ms - 95[0m
+2021-07-04 21:48:33 error: [GET] /uphold-bot/USD-BTC/0.10 >> StatusCode:: 500, Message:: Cannot set headers after they are sent to the client
+2021-07-04 21:54:24 info: =================================
+2021-07-04 21:54:24 info: ======= ENV: development =======
+2021-07-04 21:54:24 info: 🚀 App listening on the port 3000
+2021-07-04 21:54:24 info: =================================
+2021-07-04 21:56:37 info: =================================
+2021-07-04 21:56:37 info: ======= ENV: development =======
+2021-07-04 21:56:37 info: 🚀 App listening on the port 3000
+2021-07-04 21:56:37 info: =================================
+2021-07-04 21:57:29 info: =================================
+2021-07-04 21:57:29 info: ======= ENV: development =======
+2021-07-04 21:57:29 info: 🚀 App listening on the port 3000
+2021-07-04 21:57:29 info: =================================
+2021-07-04 22:01:41 info: =================================
+2021-07-04 22:01:41 info: ======= ENV: development =======
+2021-07-04 22:01:41 info: 🚀 App listening on the port 3000
+2021-07-04 22:01:41 info: =================================
+2021-07-04 22:01:49 info: =================================
+2021-07-04 22:01:49 info: ======= ENV: development =======
+2021-07-04 22:01:49 info: 🚀 App listening on the port 3000
+2021-07-04 22:01:49 info: =================================

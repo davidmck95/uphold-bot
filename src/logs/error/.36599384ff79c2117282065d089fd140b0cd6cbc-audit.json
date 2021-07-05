@@ -1,0 +1,19 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/Users/davidmck@kainos.com/Documents/Uphold/uphold-backend-assessment/src/logs/error/.36599384ff79c2117282065d089fd140b0cd6cbc-audit.json",
+    "files": [
+        {
+            "date": 1625419763554,
+            "name": "/Users/davidmck@kainos.com/Documents/Uphold/uphold-backend-assessment/src/logs/error/2021-07-04.log",
+            "hash": "fc51e783a034c11f7ef9d00e876eda1f"
+        },
+        {
+            "date": 1625478741127,
+            "name": "/Users/davidmck@kainos.com/Documents/Uphold/uphold-backend-assessment/src/logs/error/2021-07-05.log",
+            "hash": "862a216c89dbbedd778c0c60249b1ad7"
+        }
+    ]
+}

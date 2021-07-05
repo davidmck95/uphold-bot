@@ -1,0 +1,49 @@
+2021-07-04 18:30:58 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1290:16)
+    at listenInCluster (node:net:1338:12)
+    at Server.listen (node:net:1424:7)
+    at Function.listen (/Users/davidmck@kainos.com/Documents/Uphold/uphold-backend-assessment/node_modules/express/lib/application.js:618:24)
+    at App.listen (/Users/davidmck@kainos.com/Documents/Uphold/uphold-backend-assessment/src/app.ts:33:14)
+    at Object.<anonymous> (/Users/davidmck@kainos.com/Documents/Uphold/uphold-backend-assessment/src/server.ts:14:5)
+    at Module._compile (node:internal/modules/cjs/loader:1102:14)
+    at Module.m._compile (/Users/davidmck@kainos.com/Documents/Uphold/uphold-backend-assessment/node_modules/ts-node/src/index.ts:1295:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1131:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/davidmck@kainos.com/Documents/Uphold/uphold-backend-assessment/node_modules/ts-node/src/index.ts:1298:12)
+2021-07-04 18:33:21 error: [GET] /uphold-bot >> StatusCode:: 500, Message:: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'TLSSocket'
+    --- property '_httpMessage' closes the circle
+2021-07-04 18:33:59 error: [GET] /uphold-bot >> StatusCode:: 500, Message:: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'TLSSocket'
+    --- property '_httpMessage' closes the circle
+2021-07-04 18:34:42 error: [GET] /uphold-bot >> StatusCode:: 500, Message:: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'TLSSocket'
+    --- property '_httpMessage' closes the circle
+2021-07-04 18:36:13 error: [GET] /uphold-bot >> StatusCode:: 500, Message:: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'TLSSocket'
+    --- property '_httpMessage' closes the circle
+2021-07-04 18:37:46 error: [GET] /uphold-bot >> StatusCode:: 500, Message:: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'TLSSocket'
+    --- property '_httpMessage' closes the circle
+2021-07-04 18:43:17 error: [GET] /uphold-bot >> StatusCode:: 500, Message:: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'TLSSocket'
+    --- property '_httpMessage' closes the circle
+2021-07-04 21:25:49 error: [GET] /uphold-bot >> StatusCode:: 500, Message:: Cannot set headers after they are sent to the client
+2021-07-04 21:27:24 error: [GET] /uphold-bot >> StatusCode:: 500, Message:: Cannot set headers after they are sent to the client
+2021-07-04 21:28:21 error: [GET] /uphold-bot >> StatusCode:: 500, Message:: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'TLSSocket'
+    --- property '_httpMessage' closes the circle
+2021-07-04 21:29:47 error: [GET] /uphold-bot >> StatusCode:: 500, Message:: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'TLSSocket'
+    --- property '_httpMessage' closes the circle
+2021-07-04 21:32:30 error: [GET] /uphold-bot >> StatusCode:: 500, Message:: Cannot set headers after they are sent to the client
+2021-07-04 21:35:33 error: [GET] /uphold-bot >> StatusCode:: 500, Message:: Cannot set headers after they are sent to the client
+2021-07-04 21:48:33 error: [GET] /uphold-bot/USD-BTC/0.10 >> StatusCode:: 500, Message:: Cannot set headers after they are sent to the client

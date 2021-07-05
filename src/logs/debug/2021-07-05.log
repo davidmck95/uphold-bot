@@ -1,0 +1,150 @@
+2021-07-05 10:52:26 info: [0mPOST /signup [32m201[0m 175.319 ms - 135[0m
+2021-07-05 10:52:27 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-07-05 10:52:27 info: [0mPOST /login [33m409[0m 8.138 ms - 51[0m
+2021-07-05 10:54:56 info: [0mGET /uphold-bot [33m404[0m 6.189 ms - 149[0m
+2021-07-05 10:54:58 info: [0mPOST /signup [32m201[0m 507.477 ms - 135[0m
+2021-07-05 10:54:59 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-07-05 10:54:59 info: [0mPOST /login [33m409[0m 8.061 ms - 51[0m
+2021-07-05 10:54:59 info: [0mGET /users [32m200[0m 25.692 ms - 460[0m
+2021-07-05 10:54:59 info: [0mGET /users/1 [32m200[0m 1.756 ms - 135[0m
+2021-07-05 10:54:59 info: [0mPOST /users [32m201[0m 278.268 ms - 136[0m
+2021-07-05 10:55:00 info: [0mPUT /users/1 [32m200[0m 360.806 ms - 461[0m
+2021-07-05 10:55:00 info: [0mDELETE /users/1 [32m200[0m 1.023 ms - 353[0m
+2021-07-05 10:55:29 info: [0mGET /uphold-bot [33m404[0m 6.012 ms - 149[0m
+2021-07-05 10:55:32 info: [0mPOST /signup [32m201[0m 538.223 ms - 135[0m
+2021-07-05 10:55:32 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-07-05 10:55:32 info: [0mPOST /login [33m409[0m 10.160 ms - 51[0m
+2021-07-05 10:55:36 info: [0mGET /users [32m200[0m 2.426 ms - 460[0m
+2021-07-05 10:55:36 info: [0mGET /users/1 [32m200[0m 0.879 ms - 135[0m
+2021-07-05 10:55:36 info: [0mPOST /users [32m201[0m 251.029 ms - 136[0m
+2021-07-05 10:55:37 info: [0mPUT /users/1 [32m200[0m 411.521 ms - 461[0m
+2021-07-05 10:55:37 info: [0mDELETE /users/1 [32m200[0m 0.830 ms - 353[0m
+2021-07-05 10:56:15 info: [0mGET /uphold-bot [33m404[0m 8.037 ms - 149[0m
+2021-07-05 14:02:13 info: =================================
+2021-07-05 14:02:13 info: ======= ENV: development =======
+2021-07-05 14:02:13 info: 🚀 App listening on the port 3000
+2021-07-05 14:02:13 info: =================================
+2021-07-05 14:02:29 info: [0mGET /uphold-bot/USD-BTC/0.10 [32m200[0m 407.866 ms - 41[0m
+2021-07-05 14:02:29 error: [GET] /uphold-bot/USD-BTC/0.10 >> StatusCode:: 500, Message:: Cannot set headers after they are sent to the client
+2021-07-05 14:17:04 info: =================================
+2021-07-05 14:17:04 info: ======= ENV: development =======
+2021-07-05 14:17:04 info: 🚀 App listening on the port 3000
+2021-07-05 14:17:04 info: =================================
+2021-07-05 14:17:09 info: [0mGET /uphold-bot/USD-BTC/0.10 [32m200[0m 881.304 ms - -[0m
+2021-07-05 14:17:09 error: [GET] /uphold-bot/USD-BTC/0.10 >> StatusCode:: 500, Message:: Cannot set headers after they are sent to the client
+2021-07-05 14:18:01 info: =================================
+2021-07-05 14:18:01 info: ======= ENV: development =======
+2021-07-05 14:18:01 info: 🚀 App listening on the port 3000
+2021-07-05 14:18:01 info: =================================
+2021-07-05 14:18:11 info: [0mGET /uphold-bot/USD-BTC/0.10 [32m200[0m 7316.214 ms - 61[0m
+2021-07-05 14:18:11 error: [GET] /uphold-bot/USD-BTC/0.10 >> StatusCode:: 500, Message:: Cannot set headers after they are sent to the client
+2021-07-05 14:28:32 info: =================================
+2021-07-05 14:28:32 info: ======= ENV: development =======
+2021-07-05 14:28:32 info: 🚀 App listening on the port 3000
+2021-07-05 14:28:32 info: =================================
+2021-07-05 14:28:37 info: [0mGET /uphold-bot/USD-BTC/0.10 [32m200[0m 372.973 ms - -[0m
+2021-07-05 14:28:37 error: [GET] /uphold-bot/USD-BTC/0.10 >> StatusCode:: 500, Message:: Cannot set headers after they are sent to the client
+2021-07-05 14:29:21 info: =================================
+2021-07-05 14:29:21 info: ======= ENV: development =======
+2021-07-05 14:29:21 info: 🚀 App listening on the port 3000
+2021-07-05 14:29:21 info: =================================
+2021-07-05 14:29:25 info: [0mGET /uphold-bot/USD-BTC/0.10 [32m200[0m 302.389 ms - 61[0m
+2021-07-05 14:29:54 info: =================================
+2021-07-05 14:29:54 info: ======= ENV: development =======
+2021-07-05 14:29:54 info: 🚀 App listening on the port 3000
+2021-07-05 14:29:54 info: =================================
+2021-07-05 14:32:48 info: =================================
+2021-07-05 14:32:48 info: ======= ENV: development =======
+2021-07-05 14:32:48 info: 🚀 App listening on the port 3000
+2021-07-05 14:32:48 info: =================================
+2021-07-05 14:33:10 info: =================================
+2021-07-05 14:33:10 info: ======= ENV: development =======
+2021-07-05 14:33:10 info: 🚀 App listening on the port 3000
+2021-07-05 14:33:10 info: =================================
+2021-07-05 14:33:19 info: [0mGET /uphold-bot/USD-BTC/0.10 [32m200[0m 4.525 ms - 41[0m
+2021-07-05 14:34:26 info: =================================
+2021-07-05 14:34:26 info: ======= ENV: development =======
+2021-07-05 14:34:26 info: 🚀 App listening on the port 3000
+2021-07-05 14:34:26 info: =================================
+2021-07-05 14:34:28 info: [0mGET /uphold-bot/USD-BTC/0.10 [36m304[0m 4.153 ms - -[0m
+2021-07-05 14:34:51 info: [0mGET /uphold-bot/USD-BTC/0.0000000001 [32m200[0m 0.865 ms - 41[0m
+2021-07-05 14:58:20 info: =================================
+2021-07-05 14:58:20 info: ======= ENV: development =======
+2021-07-05 14:58:20 info: 🚀 App listening on the port 3000
+2021-07-05 14:58:20 info: =================================
+2021-07-05 14:58:53 info: [0mGET /uphold-bot/USD-BTC/0.0000000001 [36m304[0m 6.571 ms - -[0m
+2021-07-05 14:59:29 info: =================================
+2021-07-05 14:59:29 info: ======= ENV: development =======
+2021-07-05 14:59:29 info: 🚀 App listening on the port 3000
+2021-07-05 14:59:29 info: =================================
+2021-07-05 14:59:33 info: [0mGET /uphold-bot/USD-BTC/0.0000000001 [36m304[0m 4.537 ms - -[0m
+2021-07-05 14:59:50 info: [0mGET /uphold-bot/USD-BTC/0.10 [36m304[0m 0.939 ms - -[0m
+2021-07-05 15:00:33 info: =================================
+2021-07-05 15:00:33 info: ======= ENV: development =======
+2021-07-05 15:00:33 info: 🚀 App listening on the port 3000
+2021-07-05 15:00:33 info: =================================
+2021-07-05 15:00:34 info: [0mGET /uphold-bot/USD-BTC/0.10 [36m304[0m 4.679 ms - -[0m
+2021-07-05 15:07:01 info: =================================
+2021-07-05 15:07:01 info: ======= ENV: development =======
+2021-07-05 15:07:01 info: 🚀 App listening on the port 3000
+2021-07-05 15:07:02 info: =================================
+2021-07-05 15:07:13 info: =================================
+2021-07-05 15:07:13 info: ======= ENV: development =======
+2021-07-05 15:07:13 info: 🚀 App listening on the port 3000
+2021-07-05 15:07:13 info: =================================
+2021-07-05 15:07:16 info: [0mGET /uphold-bot/USD-BTC/0.10 [36m304[0m 5.015 ms - -[0m
+2021-07-05 15:07:43 info: =================================
+2021-07-05 15:07:43 info: ======= ENV: development =======
+2021-07-05 15:07:43 info: 🚀 App listening on the port 3000
+2021-07-05 15:07:43 info: =================================
+2021-07-05 15:07:45 info: [0mGET /uphold-bot/USD-BTC/0.10 [36m304[0m 5.345 ms - -[0m
+2021-07-05 15:07:55 info: New price movement (0%) for USD-BTC! New price: $0.00002976
+2021-07-05 15:08:00 info: New price movement (0.03360215053763978%) for USD-BTC! New price: $0.00002977
+2021-07-05 15:08:05 info: New price movement (0%) for USD-BTC! New price: $0.00002977
+2021-07-05 15:08:10 info: New price movement (0%) for USD-BTC! New price: $0.00002977
+2021-07-05 15:08:15 info: New price movement (0%) for USD-BTC! New price: $0.00002977
+2021-07-05 15:08:20 info: New price movement (-0.03359086328519179%) for USD-BTC! New price: $0.00002976
+2021-07-05 19:24:10 info: =================================
+2021-07-05 19:24:10 info: ======= ENV: development =======
+2021-07-05 19:24:10 info: 🚀 App listening on the port 3000
+2021-07-05 19:24:10 info: =================================
+2021-07-05 19:24:23 info: [0mGET /uphold-bot/USD-BTC/0.10 [36m304[0m 5.648 ms - -[0m
+2021-07-05 19:25:31 info: =================================
+2021-07-05 19:25:31 info: ======= ENV: development =======
+2021-07-05 19:25:31 info: 🚀 App listening on the port 3000
+2021-07-05 19:25:31 info: =================================
+2021-07-05 19:25:43 info: [0mGET /uphold-bot/USD-BTC/0.10/5 [32m200[0m 6.365 ms - 41[0m
+2021-07-05 19:26:29 info: =================================
+2021-07-05 19:26:29 info: ======= ENV: development =======
+2021-07-05 19:26:29 info: 🚀 App listening on the port 3000
+2021-07-05 19:26:29 info: =================================
+2021-07-05 19:26:35 info: [0mGET /uphold-bot/USD-BTC/0.10 [36m304[0m 9.158 ms - -[0m
+2021-07-05 19:27:20 info: New price movement (0.13596193065941406%) for USD-BTC! New price: $0.00002946
+2021-07-05 19:27:27 info: =================================
+2021-07-05 19:27:27 info: ======= ENV: development =======
+2021-07-05 19:27:27 info: 🚀 App listening on the port 3000
+2021-07-05 19:27:27 info: =================================
+2021-07-05 19:27:32 info: [0mGET /uphold-bot/USD-BTC [32m200[0m 7.996 ms - 41[0m
+2021-07-05 19:33:15 info: =================================
+2021-07-05 19:33:15 info: ======= ENV: development =======
+2021-07-05 19:33:15 info: 🚀 App listening on the port 3000
+2021-07-05 19:33:15 info: =================================
+2021-07-05 19:33:20 info: [0mGET /uphold-bot/USD-BTC [32m200[0m 4.828 ms - 75[0m
+2021-07-05 19:33:31 info: New price movement (0.033944331296678884%) for USD-BTC! New price: $0.00002947
+2021-07-05 19:33:51 info: New price movement (0.03393281303019413%) for USD-BTC! New price: $0.00002948
+2021-07-05 19:34:01 info: New price movement (-0.03392130257801293%) for USD-BTC! New price: $0.00002947
+2021-07-05 19:44:54 info: =================================
+2021-07-05 19:44:54 info: ======= ENV: development =======
+2021-07-05 19:44:54 info: 🚀 App listening on the port 3000
+2021-07-05 19:44:54 info: =================================
+2021-07-05 19:44:59 info: [0mGET /uphold-bot/USD-BTC [36m304[0m 5.613 ms - -[0m
+2021-07-05 19:45:19 info: New price movement (0.033955857385392904%) for USD-BTC! New price: $0.00002946
+2021-07-05 19:45:39 info: New price movement (0.033944331296678884%) for USD-BTC! New price: $0.00002947
+2021-07-05 19:45:54 info: New price movement (0.06786562606039975%) for USD-BTC! New price: $0.00002949
+2021-07-05 19:46:04 info: New price movement (-0.06781959986436016%) for USD-BTC! New price: $0.00002947
+2021-07-05 19:46:14 info: New price movement (0.10179843909059388%) for USD-BTC! New price: $0.0000295
+2021-07-05 19:46:24 info: New price movement (-0.0338983050847397%) for USD-BTC! New price: $0.00002949
+2021-07-05 19:46:34 info: New price movement (0.03390979993217433%) for USD-BTC! New price: $0.0000295
+2021-07-05 19:46:44 info: New price movement (0.06779661016949087%) for USD-BTC! New price: $0.00002952
+2021-07-05 19:46:54 info: New price movement (-0.03387533875338147%) for USD-BTC! New price: $0.00002951
+2021-07-05 19:47:04 info: New price movement (-0.06777363605557374%) for USD-BTC! New price: $0.00002949

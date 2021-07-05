@@ -1,0 +1,20 @@
+tags:
+- name: uphold-bot
+  description: A bot to alert changes in currency prices on the Uphold API
+
+paths:
+# [GET] price
+  /price/:symbol/:percentage:
+    get:
+      tags:
+      - users
+      summary: Get the price for the specified currency symbol and change percentage to be notified
+      responses:
+        200:
+          description: 'OK'
+        500:
+          description: 'Server Error'
+
+schemes:
+ - https
+ - http

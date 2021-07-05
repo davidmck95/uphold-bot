@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/Users/davidmck@kainos.com/Documents/Uphold/uphold-backend-assessment/dist/logs/debug/.6e9dd4ee0bd70c472ae6d0c7b2f473f3365b128d-audit.json",
+    "files": [
+        {
+            "date": 1625417720166,
+            "name": "/Users/davidmck@kainos.com/Documents/Uphold/uphold-backend-assessment/dist/logs/debug/2021-07-04.log",
+            "hash": "a3ee7a92d42906207ff0f56cfa583343"
+        }
+    ]
+}

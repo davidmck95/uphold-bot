@@ -1,0 +1,23 @@
+2021-07-04 17:55:20 info: =================================
+2021-07-04 17:55:20 info: ======= ENV: production =======
+2021-07-04 17:55:20 info: 🚀 App listening on the port 3000
+2021-07-04 17:55:20 info: =================================
+2021-07-04 17:55:36 info: ::1 - - [04/Jul/2021:16:55:36 +0000] "GET / HTTP/1.1" 200 2 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+2021-07-04 17:55:37 info: ::1 - - [04/Jul/2021:16:55:37 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+2021-07-04 17:55:42 info: ::1 - - [04/Jul/2021:16:55:42 +0000] "GET /users HTTP/1.1" 200 460 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+2021-07-04 18:17:03 info: =================================
+2021-07-04 18:17:03 info: ======= ENV: production =======
+2021-07-04 18:17:03 info: 🚀 App listening on the port 3000
+2021-07-04 18:17:03 info: =================================
+2021-07-04 18:17:15 info: ::1 - - [04/Jul/2021:17:17:15 +0000] "GET / HTTP/1.1" 404 139 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+2021-07-04 18:17:37 error: [GET] /uphold-bot >> StatusCode:: 500, Message:: self signed certificate in certificate chain
+2021-07-04 18:17:37 info: ::1 - - [04/Jul/2021:17:17:37 +0000] "GET /uphold-bot HTTP/1.1" 500 58 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+2021-07-04 18:22:16 info: =================================
+2021-07-04 18:22:16 info: ======= ENV: production =======
+2021-07-04 18:22:16 info: 🚀 App listening on the port 3000
+2021-07-04 18:22:16 info: =================================
+2021-07-04 18:23:14 info: ::1 - - [04/Jul/2021:17:23:14 +0000] "GET /uphold-bot HTTP/1.1" 200 2 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+2021-07-04 18:23:14 error: [GET] /uphold-bot >> StatusCode:: 500, Message:: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'TLSSocket'
+    --- property '_httpMessage' closes the circle

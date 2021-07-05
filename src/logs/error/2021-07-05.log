@@ -1,0 +1,7 @@
+2021-07-05 10:52:27 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-07-05 10:54:59 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-07-05 10:55:32 error: [POST] /login >> StatusCode:: 409, Message:: You're email test@email.com not found
+2021-07-05 14:02:29 error: [GET] /uphold-bot/USD-BTC/0.10 >> StatusCode:: 500, Message:: Cannot set headers after they are sent to the client
+2021-07-05 14:17:09 error: [GET] /uphold-bot/USD-BTC/0.10 >> StatusCode:: 500, Message:: Cannot set headers after they are sent to the client
+2021-07-05 14:18:11 error: [GET] /uphold-bot/USD-BTC/0.10 >> StatusCode:: 500, Message:: Cannot set headers after they are sent to the client
+2021-07-05 14:28:37 error: [GET] /uphold-bot/USD-BTC/0.10 >> StatusCode:: 500, Message:: Cannot set headers after they are sent to the client

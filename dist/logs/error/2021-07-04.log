@@ -1,0 +1,17 @@
+2021-07-04 18:17:37 error: [GET] /uphold-bot >> StatusCode:: 500, Message:: self signed certificate in certificate chain
+2021-07-04 18:23:14 error: [GET] /uphold-bot >> StatusCode:: 500, Message:: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'TLSSocket'
+    --- property '_httpMessage' closes the circle
+2021-07-04 18:30:14 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1290:16)
+    at listenInCluster (node:net:1338:12)
+    at Server.listen (node:net:1424:7)
+    at Function.listen (/Users/davidmck@kainos.com/Documents/Uphold/uphold-backend-assessment/node_modules/express/lib/application.js:618:24)
+    at App.listen (/Users/davidmck@kainos.com/Documents/Uphold/uphold-backend-assessment/dist/app.js:27:18)
+    at Object.<anonymous> (/Users/davidmck@kainos.com/Documents/Uphold/uphold-backend-assessment/dist/server.js:13:5)
+    at Module._compile (node:internal/modules/cjs/loader:1102:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1131:10)
+    at Module.load (node:internal/modules/cjs/loader:967:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:807:14)
